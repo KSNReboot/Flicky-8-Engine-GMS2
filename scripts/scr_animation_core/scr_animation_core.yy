@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_animation_core",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_animation_core",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Scripts/Character/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

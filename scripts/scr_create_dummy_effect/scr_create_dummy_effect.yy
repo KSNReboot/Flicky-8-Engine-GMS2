@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_dummy_effect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_dummy_effect",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/Scripts/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

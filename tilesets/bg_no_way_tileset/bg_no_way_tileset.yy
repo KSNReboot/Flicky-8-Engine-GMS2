@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"bg_no_way_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"bg_no_way_tileset",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"No Way",
+    "path":"folders/Tile Sets/No Way.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"bg_no_way",
+    "path":"sprites/bg_no_way/bg_no_way.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":224,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":320,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1,
+}

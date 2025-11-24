@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_fly",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_fly",
+  "parent":{
+    "name":"Tails",
+    "path":"folders/Scripts/Character/Actions/Tails.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

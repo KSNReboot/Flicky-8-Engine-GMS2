@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_Parallax_Add_Node",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Parallax_Add_Node",
+  "parent":{
+    "name":"Parallax",
+    "path":"folders/Scripts/Rendering/Parallax.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

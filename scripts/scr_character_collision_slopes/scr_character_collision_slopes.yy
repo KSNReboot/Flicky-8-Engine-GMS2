@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_collision_slopes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_collision_slopes",
+  "parent":{
+    "name":"Collision",
+    "path":"folders/Scripts/Character/Collision.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_insta_shield",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_insta_shield",
+  "parent":{
+    "name":"Sonic",
+    "path":"folders/Scripts/Character/Actions/Sonic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_ray_action_fly",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ray_action_fly",
+  "parent":{
+    "name":"Ray",
+    "path":"folders/Scripts/Character/Actions/Ray.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

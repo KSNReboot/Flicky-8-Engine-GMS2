@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_game_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_game_init",
+  "parent":{
+    "name":"Initialization",
+    "path":"folders/Scripts/Initialization.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

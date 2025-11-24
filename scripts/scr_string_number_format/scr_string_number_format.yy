@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_string_number_format",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_string_number_format",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/Scripts/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

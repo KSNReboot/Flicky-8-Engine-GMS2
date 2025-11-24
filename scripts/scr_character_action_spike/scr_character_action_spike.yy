@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_spike",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_spike",
+  "parent":{
+    "name":"Mighty",
+    "path":"folders/Scripts/Character/Actions/Mighty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

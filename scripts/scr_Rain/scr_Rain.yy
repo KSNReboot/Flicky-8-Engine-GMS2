@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_Rain",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Rain",
+  "parent":{
+    "name":"Rendering",
+    "path":"folders/Scripts/Rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

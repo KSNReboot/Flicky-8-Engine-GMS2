@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_handle_launch_sensor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_handle_launch_sensor",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Character/Handle/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

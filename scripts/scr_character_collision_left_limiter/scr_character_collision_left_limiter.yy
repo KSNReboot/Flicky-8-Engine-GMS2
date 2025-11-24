@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_collision_left_limiter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_collision_left_limiter",
+  "parent":{
+    "name":"Left",
+    "path":"folders/Scripts/Character/Collision/Left.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

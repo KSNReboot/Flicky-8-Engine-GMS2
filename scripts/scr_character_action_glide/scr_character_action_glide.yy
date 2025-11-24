@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_glide",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_glide",
+  "parent":{
+    "name":"Knuckles",
+    "path":"folders/Scripts/Character/Actions/Knuckles.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

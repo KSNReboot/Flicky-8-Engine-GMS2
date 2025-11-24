@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_Draw_Background_Tiled_Part",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Draw_Background_Tiled_Part",
+  "parent":{
+    "name":"Parallax",
+    "path":"folders/Scripts/Rendering/Parallax.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_collision_top_object",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_collision_top_object",
+  "parent":{
+    "name":"Top",
+    "path":"folders/Scripts/Character/Collision/Top.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

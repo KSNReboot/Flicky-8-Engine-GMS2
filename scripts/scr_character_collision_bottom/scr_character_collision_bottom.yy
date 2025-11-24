@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_collision_bottom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_collision_bottom",
+  "parent":{
+    "name":"Bottom",
+    "path":"folders/Scripts/Character/Collision/Bottom.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

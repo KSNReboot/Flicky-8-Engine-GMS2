@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_handle_obstacles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_handle_obstacles",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Character/Handle/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

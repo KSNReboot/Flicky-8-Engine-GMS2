@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_push",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_push",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Character/Actions/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

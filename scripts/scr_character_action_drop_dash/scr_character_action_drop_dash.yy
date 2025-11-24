@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_drop_dash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_drop_dash",
+  "parent":{
+    "name":"Sonic",
+    "path":"folders/Scripts/Character/Actions/Sonic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_movement_gspeed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_movement_gspeed",
+  "parent":{
+    "name":"Movement",
+    "path":"folders/Scripts/Character/Movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

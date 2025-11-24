@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_hammer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_hammer",
+  "parent":{
+    "name":"Amy",
+    "path":"folders/Scripts/Character/Actions/Amy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

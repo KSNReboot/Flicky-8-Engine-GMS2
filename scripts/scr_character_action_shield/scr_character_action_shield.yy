@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_shield",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_shield",
+  "parent":{
+    "name":"Default",
+    "path":"folders/Scripts/Character/Actions/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

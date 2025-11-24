@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"bg_test_zone_palmtree_tileset",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"bg_test_zone_palmtree_tileset",
+  "out_columns":1,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Test Zone",
+    "path":"folders/Tile Sets/Tilesets/Test Zone.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"bg_test_zone_palmtree",
+    "path":"sprites/bg_test_zone_palmtree/bg_test_zone_palmtree.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":127,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":71,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":2,
+}

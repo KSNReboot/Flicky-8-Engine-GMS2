@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_wrap_angle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_wrap_angle",
+  "parent":{
+    "name":"Angle",
+    "path":"folders/Scripts/Character/Angle.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

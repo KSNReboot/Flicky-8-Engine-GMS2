@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_super_fly",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_super_fly",
+  "parent":{
+    "name":"Super",
+    "path":"folders/Scripts/Character/Actions/Super.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_character_action_peelout",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_character_action_peelout",
+  "parent":{
+    "name":"Sonic",
+    "path":"folders/Scripts/Character/Actions/Sonic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
