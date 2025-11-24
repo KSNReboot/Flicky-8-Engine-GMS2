@@ -17,6 +17,7 @@ function scr_character_handle_bar() {
  
  
 	 if Action = ActionBarV{
+	 var barobj = vbar;
 	 x = barobj.x+10;
 	 y = barobj.y;
 	 XSpeed = 0;
@@ -63,6 +64,7 @@ function scr_character_handle_bar() {
  
  
 	 if Action = ActionBarH{
+	 var barobj = hbar;
 	 x = barobj.x-3;
 	 y = barobj.y-10;
 	 XSpeed = 0;
